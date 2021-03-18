@@ -1,3 +1,13 @@
 # Aula de Python 1#!
 
-print ("Hello World!")
+    # Vamos começar com o famoso 'hello world', dizem que da sorte, no inicio do seu apredizado fazer um código que faça colocar na tela Hello World!
+
+    # Primeiro, vamos entender o que queremos. Bem, hoje queremos que nosso código coloque na tela uma frase, no caso queremos colocar a frase "Hello World! De maneira lógica, pense comigo, queremos dá um comando para o computador "computador, escreva a frase 'Hello World!' na minha tela" mas como dizemos isso para o computador?
+
+    # É simples, vamos falar na língua dele "computador, escreva a frase 'Hello World!' na minha tela" a gente traduz para "print ("Hello World!")" 
+
+    # Vamos tentar? Escreva: print ("Hello World!")
+
+    print ("Hello World!")
+
+    # Agora clique com o botão direito do mouse na linha do seu código, após isso clique na opção "Executar seleção/Linha do terminal". ou simplesmente aperte Shift + Enter. Mas lembrese de sempre clicar na linha do seu código, blz?

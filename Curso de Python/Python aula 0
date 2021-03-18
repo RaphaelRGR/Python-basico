@@ -7,3 +7,7 @@
 #Após baixar e instalar ele, clique em "Arquivo", depois em "Novo Arquivo" e no canto inferior direito clique em "Texto sem formatação", digite Python e clique na primeira opção. Após isso ele vai mandar uma mensagem para você instalar a linguagem, você clica em instalar e vai ser redirecionado para o site oficial da linguagem e de cara ele já vai te recomendar a versão mais atualizada compativel com a sua máquina! Baixe e instale ela no seu computador, abra novamente o visual studio e Vuoala!! Python já ta pegando tranquilo na sua máquina. Vamos começar!
 
 # Se tiver alguma dúvida pode me mandar ou pesquise no youtube como instlar o python e o visual studio code. 
+
+
+
+# obs:. Acho que voçes já perceberam, mas se não... Quando você coloca '#' seu código não é lido naquela linha, chamamos isso de coméntario e serve basicamente para você organizar melhor seu código e dizer para você mesmo ou para terceiros o que tá acontecendo alí. ;)
